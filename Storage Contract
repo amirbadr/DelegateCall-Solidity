@@ -1,5 +1,5 @@
 //This contract holds a state variable and uses delegate call to execute the logic of TargetContract
-which then updates the state variable in StorageContract.
+//which then updates the state variable in StorageContract.
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.18;
 
